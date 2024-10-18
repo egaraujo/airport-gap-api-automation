@@ -1,5 +1,5 @@
 import { test, expect } from '@playwright/test'
-import { StaticVariables } from "../helpers/staticVariables"
+import { StaticVariables } from '../helpers/staticVariables'
 import * as apiHelpers from '../helpers/apiHelpers'
 
 test.describe('airport', () => {

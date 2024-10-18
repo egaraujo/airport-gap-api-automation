@@ -1,4 +1,4 @@
-import { StaticVariables } from "./staticVariables"
+import { StaticVariables } from './staticVariables'
 
 let apiBaseURL = StaticVariables.staticApiBaseURL
 
