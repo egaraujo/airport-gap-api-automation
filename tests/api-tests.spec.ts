@@ -43,6 +43,11 @@ test('should retrieve a specific airport', async({request}) => {
     expect(body.attributes.city).toEqual("Buenos Aires")
     expect(body.attributes.country).toEqual("Argentina")
     expect(body.attributes.iata).toEqual("EZE")
+    expect(body.attributes.icao).toEqual("SAEZ")
+    expect(body.attributes.latitude).toEqual("-34.8222")
+    expect(body.attributes.longitude).toEqual("-58.5358")
+    expect(body.attributes.altitude).toEqual(67)
+    expect(body.attributes.timezone).toEqual("America/Buenos_Aires")
   })
 
   test('should not find a wrong airport code', async({request}) => {
