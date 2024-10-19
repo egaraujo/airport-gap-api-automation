@@ -12,6 +12,7 @@
     "@types/node": "^20.14.10"
   },
   "dependencies": {
+    "@estruyf/github-actions-reporter": "^1.9.2",
     "dotenv": "^16.4.5"
   }
 }
