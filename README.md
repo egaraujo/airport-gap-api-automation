@@ -21,7 +21,7 @@ This is a test suite in Playwright, for Airport Gap API
 • Should delete all favorites  
 
 ## GitHub Actions  
-This project has a worflow setup that runs the Playwright test suite on every push to the repo.  
+This project has a workflow setup that runs the Playwright test suite on every push to the repo.  
 ![screenshot](https://github.com/egaraujo/airport-gap-api-automation/blob/main/actions.png)  
 
 ## Links
