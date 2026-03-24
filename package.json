@@ -8,12 +8,12 @@
   "license": "ISC",
   "description": "",
   "devDependencies": {
-    "@playwright/test": "^1.57.0",
+    "@playwright/test": "^1.58.2",
     "@types/node": "^20.14.10"
   },
   "dependencies": {
     "@estruyf/github-actions-reporter": "^1.9.2",
     "dotenv": "^16.4.5",
-    "playwright": "^1.57.0"
+    "playwright": "^1.58.2"
   }
 }
